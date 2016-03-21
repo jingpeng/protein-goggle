@@ -1,0 +1,39 @@
+ID   GWA_SEPOF               Reviewed;           2 AA.
+AC   P83570;
+DT   16-JAN-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-2003, sequence version 1.
+DT   03-APR-2013, entry version 26.
+DE   RecName: Full=Neuropeptide GWa;
+OS   Sepia officinalis (Common cuttlefish).
+OC   Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Cephalopoda; Coleoidea;
+OC   Neocoleoidea; Decapodiformes; Sepiida; Sepiina; Sepiidae; Sepia.
+OX   NCBI_TaxID=6610;
+RN   [1]
+RP   PROTEIN SEQUENCE, FUNCTION, MASS SPECTROMETRY, AND AMIDATION.
+RC   TISSUE=Optic lobe;
+RX   PubMed=9437704; DOI=10.1016/S0196-9781(97)00241-6;
+RA   Henry J., Favrel P., Boucaud-Camou E.;
+RT   "Isolation and identification of a novel Ala-Pro-Gly-Trp-amide-related
+RT   peptide inhibiting the motility of the mature oviduct in the
+RT   cuttlefish, Sepia officinalis.";
+RL   Peptides 18:1469-1474(1997).
+CC   -!- FUNCTION: Regulatory neuropeptide with myotropic activity
+CC       targeting the distal oviduct. Inhibits the motility of the oviduct
+CC       by decreasing tonus, frequency and amplitude of contractions.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- MASS SPECTROMETRY: Mass=259.9; Method=MALDI; Range=1-2;
+CC       Source=PubMed:9437704;
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0007218; P:neuropeptide signaling pathway; IEA:UniProtKB-KW.
+PE   1: Evidence at protein level;
+KW   Amidation; Direct protein sequencing; Neuropeptide; Secreted.
+FT   PEPTIDE       1      2       Neuropeptide GWa.
+FT                                /FTId=PRO_0000044143.
+FT   MOD_RES       2      2       Tryptophan amide.
+SQ   SEQUENCE   2 AA;  261 MW;  7378100000000000 CRC64;
+     GW
+//

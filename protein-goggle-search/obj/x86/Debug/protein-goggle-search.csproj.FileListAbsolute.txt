@@ -1,0 +1,7 @@
+C:\Users\jingpeng\Documents\Mono Projects\protein-goggle-search\obj\x86\Debug\protein-goggle-search.csprojResolveAssemblyReference.cache
+C:\Users\jingpeng\Documents\Mono Projects\protein-goggle-search\bin\Debug\protein-goggle-search.exe
+C:\Users\jingpeng\Documents\Mono Projects\protein-goggle-search\bin\Debug\protein-goggle-search.pdb
+C:\Users\jingpeng\Documents\Mono Projects\protein-goggle-search\bin\Debug\Interop.Excel.dll
+C:\Users\jingpeng\Documents\Mono Projects\protein-goggle-search\bin\Debug\MySql.Data.dll
+C:\Users\jingpeng\Documents\Mono Projects\protein-goggle-search\obj\x86\Debug\protein-goggle-search.exe
+C:\Users\jingpeng\Documents\Mono Projects\protein-goggle-search\obj\x86\Debug\protein-goggle-search.pdb
